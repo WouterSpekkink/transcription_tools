@@ -19,4 +19,6 @@ parse_srt.py can be used on the command line.
 Just pass the filename of the srt-file that you wish to parse as an argument to the python script, like this:
 `python parse_srt.py myfile.srt`
 
+If you want to put the result in a text file, just do this (I guess this only works on linux): `python parse_srt.py myfile.srt > myfile.txt`
+
 
